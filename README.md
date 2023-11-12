@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=40&duration=2000&pause=1000&color=black&background=FFFFFF00&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&width=215&height=100&lines=Welcome!)](https://git.io/typing-svg) 
    
   <p>
-    Hello! 👋 I am a full stack developer with experience in WEB and API development.<br/>
+    Hello! 👋 I am a full stack developer with experience in WEB development.<br/>
     <b>I will be a developer who is worried from the client's point of view.</b>🚀<br/>
     Thank you :raising_hand:<br/><br/>
   </p>
